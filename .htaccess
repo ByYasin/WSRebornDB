@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/index$
+RewriteRule ^index$ /index.html [L]
