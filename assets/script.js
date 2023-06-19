@@ -115,7 +115,7 @@ $(document).ready(function() {
       { name: 'Renata Glasc', role: 'Support', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Renata.png', lane_image: 'images/support.png' },
       { name: 'Nilah', role: 'Fighter', image: 'https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.12/64/895.png', lane_image: 'images/botLane.png' },
       { name: 'Taliyah', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Taliyah.png', lane_image: 'images/midLane.png' },
-      { name: 'Bel\'Veth', role: 'Fighter', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Zyra.png', lane_image: 'images/jungle.png' },
+      { name: 'Bel\'Veth', role: 'Fighter', image: 'https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.12/64/200.png', lane_image: 'images/jungle.png' },
       // other champions
     ];
 
