@@ -1,7 +1,7 @@
 # League of Legends WSReborn Supported Champions DB 
 
 This project is a database that shows the supported champions for the League of Legends WSReborn script bot on the MemoryHackers.org forum. It will include future additions of new champions.
-
+https://byyasin.github.io/WSRebornDB/
 
 ## Thanks
 
