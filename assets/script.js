@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    // Şampiyon verileri
+  
     const champions = [
       { name: 'Aatrox', role: 'Fighter', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Aatrox.png', lane_image: 'images/topLane.png' },
       { name: 'Akali', role: 'Assassin', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Akali.png', lane_image: 'images/midLane.png' },
@@ -103,12 +103,12 @@ $(document).ready(function() {
       // other champions
     ];
 
-  // Şampiyonları isme göre alfabetik olarak sırala
+  
   champions.sort((a, b) => {
     return a.name.localeCompare(b.name);
   });
 
-  // Şampiyon kartlarını oluşturma fonksiyonu
+  
   function createChampionCards() {
     const championCardsContainer = $('#championCards');
     championCardsContainer.empty();
@@ -130,7 +130,7 @@ $(document).ready(function() {
     updateCardLayout();
   }
 
-  // Kart düzenini güncelle
+ 
   function updateCardLayout() {
     const visibleCards = $('.card').filter(':visible');
     const rowCount = Math.ceil(visibleCards.length / 3);
@@ -149,7 +149,7 @@ $(document).ready(function() {
     }
   }
 
-  // Filtreleme düğmelerine tıklama olaylarını ekle
+  
   $('.filterBtn').on('click', function() {
     const role = $(this).data('role');
 
@@ -166,19 +166,19 @@ $(document).ready(function() {
     updateCardLayout();
   });
 
-  // Sayfa yüklendiğinde şampiyon kartlarını oluştur ve hepsini göster
+  
   createChampionCards();
   $('.filterBtn[data-role="all"]').click();
 
-  // Arama işlevselliği
+  
   $('#searchInput').on('keyup', function() {
     const searchValue = $(this).val().toLowerCase();
 
     if (searchValue.trim() === '') {
-      // Arama değeri boş ise tüm kartları göster
+      
       $('.card').show();
     } else {
-      // Arama değeri dolu ise kartları şampiyon adlarına göre filtrele
+      
       $('.card').hide();
       champions.forEach(champion => {
         if (champion.name.toLowerCase().includes(searchValue)) {
