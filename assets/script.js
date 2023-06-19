@@ -110,7 +110,7 @@ $(document).ready(function() {
       { name: 'Shaco', role: 'Assassin', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Shaco.png', lane_image: 'images/jungle.png' },
       { name: 'Akshan', role: 'Marksman', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Akshan.png', lane_image: 'images/midLane.png' },
       { name: 'Ziggs', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Ziggs.png', lane_image: 'images/midLane.png' },
-      { name: 'Vex', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Vex.png', lane_image: 'images/bmidLane.png' },
+      { name: 'Vex', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Vex.png', lane_image: 'images/midLane.png' },
       { name: 'Zeri', role: 'Marksman', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Zeri.png', lane_image: 'images/botLane.png' },
       { name: 'Renata Glasc', role: 'Support', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Renata.png', lane_image: 'images/support.png' },
       { name: 'Nilah', role: 'Fighter', image: 'https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.12/64/895.png', lane_image: 'images/botLane.png' },
