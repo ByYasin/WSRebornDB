@@ -56,7 +56,6 @@ $(document).ready(function() {
       { name: 'Graves', role: 'Marksman', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Graves.png', lane_image: 'images/jungle.png' },
       { name: 'Hecarim', role: 'Fighter', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Hecarim.png', lane_image: 'images/jungle.png' },
       { name: 'Jarvan IV', role: 'Tank', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/JarvanIV.png', lane_image: 'images/jungle.png' },
-      { name: 'Jax', role: 'Fighter', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Jax.png', lane_image: 'images/topLane.png' },
       { name: 'Karthus', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Karthus.png', lane_image: 'images/jungle.png' },
       { name: 'Kayn', role: 'Assassin', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Kayn.png', lane_image: 'images/jungle.png' },
       { name: 'Kindred', role: 'Marksman', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Kindred.png', lane_image: 'images/jungle.png' },
