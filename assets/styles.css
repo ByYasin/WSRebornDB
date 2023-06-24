@@ -120,6 +120,8 @@ body {
     justify-content: center;
     overflow: hidden;
     transition: transform 0.3s ease;
+    margin: 10px;
+    flex: 0 0 220px;
   }
   
   .card:hover {
