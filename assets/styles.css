@@ -131,7 +131,7 @@ body {
   }
 
   .card-container {
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1px;
     justify-items: left;
