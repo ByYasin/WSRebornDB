@@ -138,6 +138,10 @@ body {
     justify-content: flex-start;
     align-content: center;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
   }
 
   .card-container::after {
