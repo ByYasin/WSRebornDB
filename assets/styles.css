@@ -104,7 +104,7 @@ body {
   #championCards {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
   }
   
   .card {
@@ -117,7 +117,7 @@ body {
     border-radius: 4px;
     display: flex;
     align-items: center;
-    justify-content: flex-start;;
+    justify-content: center;
     overflow: hidden;
     transition: transform 0.3s ease;
   }
