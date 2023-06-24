@@ -135,6 +135,7 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1px;
     justify-items: left;
+    flex-wrap: wrap;
     justify-content: flex-start;
     align-content: center;
     text-align: center;
