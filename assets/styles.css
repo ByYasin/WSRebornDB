@@ -116,7 +116,7 @@ body {
     border: 1px solid #333;
     border-radius: 4px;
     display: flex;
-    align-items: center;
+
     justify-content: center;
     overflow: hidden;
     transition: transform 0.3s ease;
@@ -138,10 +138,6 @@ body {
     justify-content: flex-start;
     align-content: center;
     text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-items: center;
   }
 
   .card-container::after {
