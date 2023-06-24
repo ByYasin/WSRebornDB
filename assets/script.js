@@ -116,6 +116,7 @@ $(document).ready(function() {
       { name: 'Taliyah', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Taliyah.png', lane_image: 'images/midLane.png' },
       { name: 'Bel\'Veth', role: 'Fighter', image: 'https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.12/64/200.png', lane_image: 'images/jungle.png' },
       { name: 'K\'Sante', role: 'Tank', image: 'https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.12/64/897.png', lane_image: 'images/topLane.png' },
+      { name: 'Vladimir', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Vladimir.png', lane_image: 'images/midLane.png' },
       // other champions
     ];
 
