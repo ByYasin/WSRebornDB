@@ -117,7 +117,7 @@ body {
     border-radius: 4px;
     display: flex;
     align-items: center;
-    justify-content: left;
+    justify-content: center;
     overflow: hidden;
     transition: transform 0.3s ease;
   }
