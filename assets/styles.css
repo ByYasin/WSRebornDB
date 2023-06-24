@@ -134,6 +134,13 @@ body {
     gap: 1px;
     justify-items: left;
     justify-content: flex-start;
+    align-content: center;
+    text-align: center;
+  }
+
+  .card-container::after {
+    content: "";
+    grid-column: auto / span 9999;
   }
   
   .card-image {
