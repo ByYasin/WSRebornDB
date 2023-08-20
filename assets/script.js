@@ -118,7 +118,7 @@ $(document).ready(function() {
       { name: 'K\'Sante', role: 'Tank', image: 'https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.12/64/897.png', lane_image: 'images/topLane.png' },
       { name: 'Vladimir', role: 'Mage', image: 'https://ddragon.leagueoflegends.com/cdn/12.4.1/img/champion/Vladimir.png', lane_image: 'images/midLane.png' },
       { name: 'Milio', role: 'Support', image: 'https://cdn.mobalytics.gg/assets/lol/images/dd/champions/icons/milio.png?V3', lane_image: 'images/support.png' },
-      { name: 'Naafiri', role: 'Assassin', image: 'https://cdn.mobalytics.gg/assets/lol/images/dd/champions/icons/naafiri.png?V3', lane_image: 'images/mid.png' },
+      { name: 'Naafiri', role: 'Assassin', image: 'https://cdn.mobalytics.gg/assets/lol/images/dd/champions/icons/naafiri.png?V3', lane_image: 'images/midLane.png' },
       // other champions
     ];
 
